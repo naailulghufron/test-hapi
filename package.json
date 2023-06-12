@@ -4,7 +4,8 @@
   "description": "trial back-end apps with hapi js",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
   },
   "repository": {
     "type": "git",
@@ -19,5 +20,13 @@
   "bugs": {
     "url": "https://github.com/naailulghufron/test-hapi/issues"
   },
-  "homepage": "https://github.com/naailulghufron/test-hapi#readme"
+  "homepage": "https://github.com/naailulghufron/test-hapi#readme",
+  "dependencies": {
+    "@hapi/hapi": "^21.3.2"
+  },
+  "devDependencies": {
+    "eslint": "^8.42.0",
+    "eslint-config-google": "^0.14.0",
+    "nodemon": "^2.0.22"
+  }
 }
