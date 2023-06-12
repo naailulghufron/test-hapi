@@ -1,0 +1,23 @@
+{
+  "name": "new-backend",
+  "version": "1.0.0",
+  "description": "trial back-end apps with hapi js",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/naailulghufron/test-hapi.git"
+  },
+  "keywords": [
+    "hapi",
+    "javascript"
+  ],
+  "author": "naailulghufron",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/naailulghufron/test-hapi/issues"
+  },
+  "homepage": "https://github.com/naailulghufron/test-hapi#readme"
+}
